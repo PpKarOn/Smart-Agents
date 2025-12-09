@@ -24,8 +24,8 @@ def init_agent():
 agent = init_agent()
 
 # --- Streamlit UI ---
-st.set_page_config(page_title="AI FAQ Assistant", page_icon="🤖", layout="centered")
-st.title("🤖 AI FAQ Assistant")
+st.set_page_config(page_title="AI FAQ Assistant - Agentic Agent Workshop", page_icon="🤖", layout="centered")
+st.title("🤖 AI FAQ Assistant - Agentic Agent Workshop")
 st.caption("Ask me anything about the DataTalksClub/faq repository")
 
 # Initialize chat history
